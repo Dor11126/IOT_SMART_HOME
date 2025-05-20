@@ -27,8 +27,5 @@ Getting Started
 
 Clone the repo
 
-Install Python (3.8+) and run pip install -r requirements.txt
+Launch start_system.bat (Windows) 
 
-Launch start_system.bat (Windows) or run the individual Python scripts in any order
-
-Enjoy your virtual smart-AC setup!

@@ -1,2 +1,0 @@
-QObject::~QObject: Timers cannot be stopped from another thread
-^C
